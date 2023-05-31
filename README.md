@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where a pursue a Bachelor Degree with Business Analytics as my specialization. 
+Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursue a Bachelor Degree with Business Analytics as my specialization. 
