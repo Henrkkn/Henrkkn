@@ -17,4 +17,17 @@ Here are some ideas to get you started:
 
 
 
-Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursue a Bachelor Degree with Business Analytics as my specialization. 
+Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. 
+My interest are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
+My profile:
+- BSc in Business and Administration, specializing in Business Analytics
+- Skills within Python, Excel and VBA
+- LinkedIn: https://www.linkedin.com/in/henrik-krantz-knudsen-aa95531b4/
+
+Upcoming projects:
+- ARIMA forecasting with ML on Tesla Stock
+- Theta Forecasting with ML on Tesla Stock
+- LTSM Forecasting with ML on Tesla Stock
+- Comparsion of the three different forecasting Models
+- Markowitz portfolio theory
+- The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
