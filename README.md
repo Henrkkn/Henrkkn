@@ -26,8 +26,8 @@ My profile:
 
 Upcoming projects:
 - ARIMA forecasting with ML on Tesla Stock
-- Theta Forecasting with ML on Tesla Stock
+- Theta Forecasting with ML and EDA on two growth stock and a stable
 - LTSM Forecasting with ML on Tesla Stock
-- Comparsion of the three different forecasting Models
+- Gradient Boosting Decision Tree
 - Markowitz portfolio theory
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
