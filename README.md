@@ -28,7 +28,7 @@ Upcoming projects:
 - ARIMA forecasting with ML on Tesla Stock
 - Theta Forecasting with ML fort the financial world
 - LTSM Forecasting in the stock market
-- Deepdive into Exponentially Weighted Moving Average (EWMA)
+- Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
 - Gradient Boosting Decision Tree
 - Markowitz portfolio theory
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
