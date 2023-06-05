@@ -26,7 +26,7 @@ My profile:
 
 Upcoming projects:
 - ARIMA forecasting with ML on Tesla Stock
-- Theta Forecasting with ML for the financial useage
+- THETA Model for Forecasting and utilizing pipeline
 - LTSM Forecasting in the stock market
 - Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
 - Gradient Boosting Decision Tree
