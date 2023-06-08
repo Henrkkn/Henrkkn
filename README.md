@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. 
 My interest are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
+
 My profile:
 - BSc in Business and Administration, specializing in Business Analytics
 - Skills within Python, Excel and VBA
 - LinkedIn: https://www.linkedin.com/in/henrik-krantz-knudsen-aa95531b4/
 
+
+Projects completed:
+- ARIMA-models for forecasting and prediction on Tesla Stock
+
 Upcoming projects:
-- ARIMA forecasting with ML on Tesla Stock
 - THETA Model for Forecasting and utilizing pipeline
 - LTSM Forecasting in the stock market
 - Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
