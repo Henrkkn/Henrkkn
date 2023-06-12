@@ -28,11 +28,11 @@ My profile:
 
 Projects completed:
 - ARIMA-models for forecasting and prediction on Tesla Stock
+- Markowitz portfolio theory
 
 Upcoming projects:
 - THETA Model for Forecasting and utilizing pipeline
 - LTSM Forecasting in the stock market
 - Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
 - Gradient Boosting Decision Tree
-- Markowitz portfolio theory
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
