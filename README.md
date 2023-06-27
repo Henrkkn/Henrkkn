@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. 
-My interest are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
+My interests are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
 
 My profile:
 - BSc in Business and Administration, specializing in Business Analytics
