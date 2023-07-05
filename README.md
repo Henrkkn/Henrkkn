@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Hi I am Henrik, I am a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. 
+Hi I am Henrik, I was a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. This autumn I will start on my MSc in Quantitative Finance at the Norwegian Business School BI in Oslo.
 My interests are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
 
 My profile:
@@ -31,7 +31,6 @@ Projects completed:
 - Markowitz portfolio theory
 
 Upcoming projects:
-- THETA Model for Forecasting and utilizing pipeline
 - LSTM Forecasting in the stock market
 - Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
 - Gradient Boosting Decision Tree
