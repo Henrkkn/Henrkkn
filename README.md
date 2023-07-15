@@ -23,15 +23,16 @@ My interests are mainly finance, statistics and programming, therefore I will sh
 My profile:
 - BSc in Business and Administration, specializing in Business Analytics
 - Skills within Python, Excel and VBA
-- LinkedIn: https://www.linkedin.com/in/henrik-krantz-knudsen-aa95531b4/
+- LinkedIn: Link to [LinkedIn](https://www.linkedin.com/in/henrik-krantz-knudsen-aa95531b4/).
+
 
 
 Projects completed:
 - ARIMA-models for forecasting and prediction on Tesla Stock
 - Markowitz portfolio theory
+- LSTM Prediction in the currency exchange rate market
 
 Upcoming projects:
-- LSTM Forecasting in the stock market
 - Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
 - Gradient Boosting Decision Tree
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
