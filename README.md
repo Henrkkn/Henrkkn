@@ -33,6 +33,6 @@ Projects completed:
 - LSTM Prediction in the currency exchange rate market
 
 Upcoming projects:
-- Deepdive into Exponentially Weighted Moving Average (EWMA) for Forecasting
-- Gradient Boosting Decision Tree
+- Deepdive into the Gradient Boosting Decision Tree
+- What are NBEATS and NHITS, and how can these be implemented into the stock prediction market?
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
