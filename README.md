@@ -31,6 +31,8 @@ Projects completed:
 - ARIMA-models for forecasting and prediction on Tesla Stock
 - Markowitz portfolio theory
 - LSTM Prediction in the currency exchange rate market
+- Pricing Derivatives / Options
+- Introduction to Brownian Motion
 
 Upcoming projects:
 - Deepdive into the Gradient Boosting Decision Tree
