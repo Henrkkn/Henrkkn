@@ -35,6 +35,7 @@ Projects completed:
 - Introduction to Brownian Motion
 
 Upcoming projects:
+- Implementing Ornstein-Uhlenbeck for stochastic processes
 - Deepdive into the Gradient Boosting Decision Tree
 - What are NBEATS and NHITS, and how can these be implemented into the stock prediction market?
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
