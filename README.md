@@ -34,6 +34,7 @@ Projects completed:
 - LSTM Prediction in the currency exchange rate market
 - Pricing Derivatives / Options
 - Introduction to Brownian Motion
+- In the subject Numerical Method with Python: Translating Python code to Julia language, focused on partial equilibrium model specifically the Hopenhayn Firm Dynamics models
 - Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates from the Course: Fixed Income Securities
 
 Upcoming projects:
