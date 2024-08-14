@@ -35,7 +35,7 @@ Projects completed:
 - Pricing Derivatives / Options
 - Introduction to Brownian Motion
 - In the subject Numerical Method with Python: Translating Python code to Julia language, focused on partial equilibrium model specifically the Hopenhayn Firm Dynamics models
-- Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates from the Course: Fixed Income Securities
+- Subject Fixed Income Securities: Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates
 
 Upcoming projects:
 - Implementing Ornstein-Uhlenbeck for stochastic processes
