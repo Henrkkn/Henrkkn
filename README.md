@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-Hi I am Henrik, I was a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. This autumn I have started on my MSc in Quantitative Finance at the Norwegian Business School BI in Oslo.
-My interests are mainly finance, statistics and programming, therefore I will share my projects within these subjects with you!
+Hi I am Henrik, I was a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. Autumn 2023 I started on my MSc in Quantitative Finance at the Norwegian Business School BI in Oslo.
+My interests are mainly finance,machine learning, statistics and programming, therefore I will share my projects within these subjects with you!
 
 My profile:
 - MSc in Quantitative Finance, at BI Oslo Business School
