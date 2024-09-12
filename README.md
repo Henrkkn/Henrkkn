@@ -36,6 +36,8 @@ Projects completed:
 - Introduction to Brownian Motion
 - In the subject Numerical Method with Python: Translating Python code to Julia language, focused on partial equilibrium model specifically the Hopenhayn Firm Dynamics models
 - Subject Fixed Income Securities: Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates
+- Multiple themes in Deep Learning and XAI subject: Comparing Bagging on Decision Tree with Dropout Method with FNN among others
+- Multiple themes in Strategic Asset Allocation: Advanced comparison with Mean Variance mehtod in R among others
 
 Upcoming projects:
 - Implementing Ornstein-Uhlenbeck for stochastic processes
