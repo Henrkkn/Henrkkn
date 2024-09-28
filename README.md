@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 Hi I am Henrik, I was a student at the Norwegian University of Science and Technology where I pursued a Bachelor Degree with Business Analytics as my specialization. Autumn 2023 I started on my MSc in Quantitative Finance at the Norwegian Business School BI in Oslo.
-My interests are mainly finance,machine learning, statistics and programming, therefore I will share my projects within these subjects with you!
+My interests are mainly finance, machine learning, statistics and programming, therefore I will share my projects within these subjects with you!
 
 My profile:
 - MSc in Quantitative Finance, at BI Oslo Business School
@@ -36,7 +36,7 @@ Projects completed:
 - Introduction to Brownian Motion
 - In the subject Numerical Method with Python: Translating Python code to Julia language, focused on partial equilibrium model specifically the Hopenhayn Firm Dynamics models
 - Subject Fixed Income Securities: Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates
-- Multiple themes in Deep Learning and XAI subject: Comparing Bagging on Decision Tree with Dropout Method with FNN among others
+- Multiple themes in Deep Learning and XAI subject: Comparing Bagging on Decision Tree with Dropout Method with FNN among others, implementing CNN for image classification
 - Multiple themes in Strategic Asset Allocation: Advanced comparison with Mean Variance mehtod in R among others
 
 Upcoming projects:
