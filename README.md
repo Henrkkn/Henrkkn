@@ -38,9 +38,9 @@ Projects completed:
 - Subject Fixed Income Securities: Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates
 - Multiple themes in Deep Learning and XAI subject: Comparing Bagging on Decision Tree with Dropout Method with FNN among others, implementing CNN for image classification
 - Multiple themes in Strategic Asset Allocation: Advanced comparison with Mean Variance mehtod in R among others
+- Comparing OLS / OLS with regularization against XGBoost as a mid-term in the subject: "Data Science for finance", this R code is in the DL and XAI repository  
 
 Upcoming projects:
 - Implementing Ornstein-Uhlenbeck for stochastic processes
-- Deepdive into the Gradient Boosting Decision Tree
 - What are NBEATS and NHITS, and how can these be implemented into the stock prediction market?
 - The Bachelor thesis: Utilizing four different machine learning algorithms for prediction of bank term deposits from the public
