@@ -37,11 +37,11 @@ Projects completed:
 - In the subject Numerical Method with Python: Translating Python code to Julia language, focused on partial equilibrium model specifically the Hopenhayn Firm Dynamics models
 - Subject Fixed Income Securities: Implementing the Bootstrap method, Regression Method and Nelson Siegel Model for constructing the term structure of interest rates
 - DL and XAI subject: Comparing Bagging on Decision Tree with Dropout Method with FNN 
-- Multiple themes in Strategic Asset Allocation: Advanced comparison with Mean Variance mehtod in R among others
+- Strategic Asset Allocation: Advanced comparison with Mean Variance mehtod in R
 - Comparing OLS / OLS with regularization against XGBoost as a mid-term in the subject: "Data Science for finance", this R code is in the DL and XAI repository
 - DL and XAI: Implementing CNN for image classification
 - DL and XAI: GDP forecasting comparing univariate and multivariate RNN and LSTM
-
+- Strategic Asset Allocation: Advanced Long-Term investment analysis in R and comparing Rebalance vs Buy-and-Hold strategy under the assumption of constant IOS 
 
 Upcoming projects:
 - Implementing Ornstein-Uhlenbeck for stochastic processes
