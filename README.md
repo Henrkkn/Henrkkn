@@ -23,7 +23,7 @@ My interests are mainly finance, machine learning, statistics and programming, t
 My profile:
 - MSc in Quantitative Finance, at BI Oslo Business School
 - BSc in Business and Administration, specializing in Business Analytics
-- Skills within Python, R, Julia, SQL/BigQuery, Apps Script(Java Script), Excel /Sheets and VBA
+- Programming experience within: Python, R, Julia, SQL/BigQuery, Apps Script(Java Script), Excel /Sheets and VBA
 - LinkedIn: Link to [LinkedIn](https://www.linkedin.com/in/henrik-krantz-knudsen-aa95531b4/).
 
 
