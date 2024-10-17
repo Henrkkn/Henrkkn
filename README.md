@@ -41,7 +41,11 @@ Projects completed:
 - Comparing OLS / OLS with regularization against XGBoost as a mid-term in the subject: "Data Science for finance", this R code is in the DL and XAI repository
 - DL and XAI: Implementing CNN for image classification
 - DL and XAI: GDP forecasting comparing univariate and multivariate RNN and LSTM
-- Strategic Asset Allocation: Advanced Long-Term investment analysis in R and comparing Rebalance vs Buy-and-Hold strategy under the assumption of constant IOS 
+- Strategic Asset Allocation: Advanced Long-Term investment analysis in R and comparing Rebalance vs Buy-and-Hold strategy under the assumption of constant IOS
+- Financial Theories: Life-cycle Consumpton using Collocation, Integrate a simple derivative which follows a Geometric Wiener process with Guass-Hermite quadrature
+- Financial Theories: Finding the price of EU call with the use of antithetic variates, stratified sampling and variance reduction techniques. As well as QMC with Halton and Weyl Sequence
+
+
 
 Upcoming projects:
 - Implementing Ornstein-Uhlenbeck for stochastic processes
