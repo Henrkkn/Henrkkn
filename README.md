@@ -45,6 +45,7 @@ Projects completed:
 - Financial Theories: Life-cycle Consumpton using Collocation, Integrate a simple derivative which follows a Geometric Wiener process with Guass-Hermite quadrature
 - Financial Theories: Finding the price of EU call with the use of antithetic variates, stratified sampling and variance reduction techniques. As well as QMC with Halton and Weyl Sequence
 - Financial Theories: Mid-term exam in subject Advanced Computational Method (Gauss-Hermite Quadrature, Gauss-Laguerre Quadrature, ODE with Projection, TPVBP with Forward shooting and Projection, four different methods on MC simulation for pricing of Asian option, and pricing Compound Option using LSM)
+- DL and XAI: Applying CNN and Autoencoder on hand-writing dataset from Keras (Lab 5 homework)
 
 
 
