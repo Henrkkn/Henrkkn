@@ -46,6 +46,7 @@ Projects completed:
 - Financial Theories: Finding the price of EU call with the use of antithetic variates, stratified sampling and variance reduction techniques. As well as QMC with Halton and Weyl Sequence
 - Financial Theories: Mid-term exam in subject Advanced Computational Method (Gauss-Hermite Quadrature, Gauss-Laguerre Quadrature, ODE with Projection, TPVBP with Forward shooting and Projection, four different methods on MC simulation for pricing of Asian option, and pricing Compound Option using LSM)
 - DL and XAI: Applying CNN and Autoencoder on hand-writing dataset from Keras (Lab 5 homework)
+- DL and XAI: Final project in DL and XAI subject- Comparing univariate and multivariate RNN and LSTM, and exploring Autoencoder for the use of ship detection in the Singapor harbour
 
 
 
